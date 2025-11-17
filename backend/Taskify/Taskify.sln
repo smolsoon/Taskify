@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskify.Api", "Taskify.Api\Taskify.Api.csproj", "{3DC5AC63-127C-48E6-AEB4-E23416F2E58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskify.Core", "Taskify.Core\Taskify.Core.csproj", "{62645D3E-837E-4ECD-A80C-724077EA6037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taksify.Infrastructure", "Taksify.Infrastructure\Taksify.Infrastructure.csproj", "{113E6885-4C00-49AC-9268-70FE2F6BBEA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC5AC63-127C-48E6-AEB4-E23416F2E58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC5AC63-127C-48E6-AEB4-E23416F2E58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC5AC63-127C-48E6-AEB4-E23416F2E58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC5AC63-127C-48E6-AEB4-E23416F2E58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62645D3E-837E-4ECD-A80C-724077EA6037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62645D3E-837E-4ECD-A80C-724077EA6037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62645D3E-837E-4ECD-A80C-724077EA6037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62645D3E-837E-4ECD-A80C-724077EA6037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113E6885-4C00-49AC-9268-70FE2F6BBEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113E6885-4C00-49AC-9268-70FE2F6BBEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113E6885-4C00-49AC-9268-70FE2F6BBEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113E6885-4C00-49AC-9268-70FE2F6BBEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

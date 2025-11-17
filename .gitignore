@@ -1,0 +1,97 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Documentation build outputs
+docs/_build/
+docs/.doctrees/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Certificates and keys
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Scripts output
+scripts/output/
+scripts/logs/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Coverage reports
+coverage/
+*.lcov
+.nyc_output/
+
+# Dependencies (covered by sub-projects but adding here for safety)
+node_modules/
+packages/
+
+# Build outputs (covered by sub-projects)
+dist/
+build/
+out/
+bin/
+obj/
+
+# Secrets and credentials
+secrets/
+credentials/
+*.secrets.json
+
+# Local development
+.local/
+local.config.json
